@@ -292,9 +292,9 @@
    * discussion.
    */
   var initialWeatherForecast = {
-    key: '2459115',
-    label: 'New York, NY',
-    created: '2016-07-22T01:00:00Z',
+    key: '2490383',
+    label: 'Seattle, WA',
+    created: '2018-07-22T01:00:00Z',
     channel: {
       astronomy: {
         sunrise: "5:43 am",
@@ -303,7 +303,7 @@
       item: {
         condition: {
           text: "Windy",
-          date: "Thu, 21 Jul 2016 09:00 PM EDT",
+          date: "Thu, 21 Jul 2016 09:00 PM PDT",
           temp: 56,
           code: 24
         },
